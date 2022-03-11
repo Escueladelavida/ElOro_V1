@@ -32,6 +32,15 @@ const options = [
     label: "medicina general",
     value: "medicina general",
   },
+
+  {
+    label: "Odontología",
+    value: "Odontología",
+  },
+  {
+    label:"Neumología",
+    value: "Neumología",
+  },
 ];
 const data = [{}];
 class AgendarCitaAdmin extends React.Component {
